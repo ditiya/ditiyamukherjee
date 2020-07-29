@@ -1,4 +1,4 @@
-# OCR using Python and Tesseract during NITAP internship
+# OCR using Python and Tesseract during internship with NITAP
 
 I, Ditiya , present a code that reads the text invoved in an image and gives output of what is written in it.
 # Process 
